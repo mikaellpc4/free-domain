@@ -15,6 +15,7 @@ a2workshop: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 mashi: [ns1.desec.io, ns2.desec.org] # Register mashi.wip.la
 guessme: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 cosmiccycle: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+mikaelserverspanel: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com]
 marco-rhel: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register marco-rhel.wip.la
 tgp24: [chip.ns.cloudflare.com, emma.ns.cloudflare.com]
 synima: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
